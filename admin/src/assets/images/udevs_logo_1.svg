@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>udevs_logo_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0017 0.1821 45.8197 0.1821 45.8197 46 0.0017 46"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="udevs_logo_1" transform="translate(0.000000, -0.125000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M22.9107,0.1821 C35.5627,0.1821 45.8197,10.4391 45.8197,23.0911 C45.8197,35.7431 35.5627,46.0001 22.9107,46.0001 C10.2587,46.0001 0.0017,35.7431 0.0017,23.0911 C0.0017,10.4391 10.2587,0.1821 22.9107,0.1821" id="Fill-1" fill="#0055FF" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M14.0582,19.9287 C14.0582,31.7257 31.7632,31.7257 31.7632,19.9287 L31.7632,10.2527 L27.1042,10.2527 L27.1042,19.5707 C27.1042,25.5827 18.7172,25.5827 18.7172,19.5707 L18.7172,10.2527 L14.0582,10.2527 L14.0582,19.9287 Z M14.8332,35.9297 L30.9872,35.9297 L30.9872,31.2617 L14.8332,31.2617 L14.8332,35.9297 Z" id="Fill-4" fill="#FEFEFE"></path>
+        </g>
+    </g>
+</svg>
